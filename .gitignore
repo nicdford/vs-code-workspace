@@ -1,0 +1,9 @@
+# Ignore Project Folders
+ascent-aero/
+default/
+phpcs/
+sandbox/
+wordpress-one/
+wordpress-two/
+wsuwp/
+wsuwp-lodge/

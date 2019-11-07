@@ -1,0 +1,49 @@
+{
+  "folders": [
+    {
+        "name": "root",
+        "path": "/Users/nicdford/vagrant-local/www"
+    },
+    {
+        "name": "Ascent Child Theme",
+        "path": "/Users/nicdford/vagrant-local/www/ascent-aero/public_html/wp-content/themes/wsuwp-theme-ascent"
+    },
+    {
+        "name": "Lodge Parent Theme",
+        "path": "/Users/nicdford/vagrant-local/www/ascent-aero/public_html/wp-content/themes/wsuwp-theme-lodge"
+    },
+    {
+        "name": "WSU Design System",
+        "path": "/Users/nicdford/vagrant-local/www/sandbox/public_html/wsu-web-design-system"
+    },
+    {
+        "path": "/Users/nicdford/Documents/wsu-build-tools"
+    }
+],
+  "settings": {
+    "editor.formatOnSave": false,
+    "[javascript]": {
+      "editor.formatOnSave": true
+    },
+    "[json]": {
+      "editor.formatOnSave": true
+    },
+    "[html]": {
+      "editor.formatOnSave": true
+    },
+    "css.validate": false,
+    "scss.validate": false,
+    "csscomb.formatOnSave": true,
+    "csscomb.preset": ".csscomb.json",
+    "editor.tabSize": 4,
+	"cSpell.enabled": false,
+	"html.format.wrapAttributes": "preserve",
+	"html.format.wrapLineLength": 0,
+  },
+  "extensions": {
+    "recommendations": [
+      "mrmlnc.vscode-csscomb",
+	  "EditorConfig.EditorConfig",
+    ]
+  }
+}
