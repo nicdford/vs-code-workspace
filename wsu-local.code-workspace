@@ -39,6 +39,7 @@
 	"cSpell.enabled": false,
 	"html.format.wrapAttributes": "preserve",
 	"html.format.wrapLineLength": 0,
+	"files.eol": "\n"
   },
   "extensions": {
     "recommendations": [
