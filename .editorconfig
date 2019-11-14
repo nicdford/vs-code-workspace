@@ -11,6 +11,7 @@ root = true
 charset = utf-8
 insert_final_newline = true
 trim_trailing_whitespace = true
+# todo verify spaces_around_* is good thing to apply to all documents, might be just to limit to JS/PHP/etc
 spaces_around_operators = true
 spaces_around_brackets = both
 indent_style = tab
